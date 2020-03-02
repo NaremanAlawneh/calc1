@@ -2,8 +2,8 @@
 
 <project default="compile">
 
-
-    <property name="src.java.dir" location="./src/test/calc"/>
+/Calc/src/java/calc.java
+    <property name="src.java.dir" location="./src/java/calc.java"/>
     <property name="src.test.dir" location="./src/test/aTest"/>
     <property name="result.dir" location="./target"/>
     <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
